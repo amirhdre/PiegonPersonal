@@ -1,0 +1,4 @@
+Sample	Disease State	Time
+Pt18_F_1	Flare	1
+Pt18_F_2	Flare	2
+Pt18_F_3	Flare	3

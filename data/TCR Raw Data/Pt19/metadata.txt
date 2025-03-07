@@ -1,0 +1,5 @@
+Sample	Disease State	Time
+Pt19_F_1	Remission	1
+Pt19_R_2	Remission	2
+Pt19_F_3	Flare	3
+Pt19_R_4	Remission	4

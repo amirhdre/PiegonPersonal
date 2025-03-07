@@ -1,0 +1,59 @@
+Number,Age,Disease Duration,Disease State,Gender,Biopsy,Mayo score at biopsy,Time from previous colonoscopy (years),Treatments at biopsy,Unnamed: 9,Status
+1.0,68.0,19.0,A,M,1.0,3,,"Prednisone,mesalamine",Vedolizumab,F
+1.0,,,,,2.0,0,1.0,"Budesonide, mesalamine",IFX,R
+1.0,,,,,3.0,2 to 3,2.0,"Azathioprine, mesalamine",IFX,F
+1.0,,,,,4.0,0,3.0,,Tofacitinib,R
+2.0,53.0,3.0,D,F,1.0,1,,Prednisone,Rituximab,F
+2.0,,,,,2.0,0,1.0,,Adalimumab,R
+3.0,26.0,7.0,E,M,1.0,Pseuodopolyps,,,Vedolizumab,F
+3.0,,,,,2.0,2,3.0,Prednisone,Ustekinumab,F
+4.0,39.0,12.0,D,F,1.0,3,,"Prednisone, mesalamine, azathioprine",IFX,F
+4.0,,,,,2.0,0,2.0,Mesalamine,Adalimumab,R
+5.0,43.0,8.0,,F,1.0,2,,Vedolizumab,,F
+6.0,68.0,6.0,D,M,1.0,3,,Budesonide,,F
+6.0,,,,,2.0,1,2.0,,Vedolizumab,R
+6.0,,,,,3.0,pseudopolyps,1.0,,Vedolizumab,R
+7.0,59.0,8.0,B,F,1.0,0,,,Vedolizumab,R
+7.0,,,,,2.0,0,2.0,,Vedolizumab,R
+8.0,29.0,5.0,D,F,1.0,3,,"Mesalamine, hydrocortisone",Vedolizumab,F
+8.0,,,,,2.0,1,1.0,azathioprine,IFX,R
+9.0,34.0,9.0,A,M,1.0,2,,Budesonide,,F
+9.0,,,,,2.0,1,2.0,Budesonide,,R
+9.0,,,,,3.0,0 to 1,2.0,,Adalimumab,F
+9.0,,,,,4.0,0,1.0,,Adalimumab,R
+10.0,43.0,5.0,D,F,1.0,2,,,,F
+10.0,,,,,2.0,0,1.0,,Vedolizumab,R
+11.0,39.0,11.0,A,F,1.0,3,,,Vedolizumab,F
+11.0,,,,,2.0,1,3.0,,Tofacitinib,R
+11.0,,,,,3.0,1,1.0,,Tofacitinib,R
+11.0,,,,,4.0,3,1.0,,Tofacitinib,F
+12.0,41.0,22.0,E,F,1.0,3,,Prednisone,"Vedolizumab, upadacitinib",F
+12.0,,,,,2.0,2,0.5833333333333334,Prednisone,"Vedolizumab, upadacitinib",F
+13.0,60.0,26.0,A,F,1.0,2024-02-03 00:00:00,,Mesalamine,,F
+13.0,,,,,2.0,0,8.0,,,R
+13.0,,,,,3.0,3,1.0,"Mesalamine, IV methylprednisolone",,F
+14.0,71.0,19.0,D,F,1.0,2024-02-03 00:00:00,,,,F
+14.0,,,,,2.0,2,1.0,,,F
+14.0,,,,,3.0,0,1.0,,Vedolizumab,R
+15.0,37.0,26.0,D,F,1.0,2024-02-03 00:00:00,,"Prednisone, cyclosporine",Vedolizumab,F
+15.0,,,,,2.0,0-1,1.0,Azathioprine,Vedolizumab,R
+15.0,,,,,3.0,0,3.0,Azathioprine,Vedolizumab,R
+16.0,35.0,8.0,D,M,1.0,3,,Prednisone,Tofacitinib,F
+16.0,,,,,2.0,0-1,0.4166666666666667,azathioprine,IFX,F
+16.0,,,,,3.0,0,3.0,azathioprine,IFX,R
+17.0,25.0,6.0,E,M*,1.0,0 with pseudopolyps and few erosions,,Mercaptopurine,IFX,F
+17.0,,,,,2.0,3,1.0,IV methylprednisolone,Tofacitinib,F
+18.0,37.0,7.0,E,M,1.0,3,,,,F
+18.0,,,,,2.0,3,3.0,Prednisone,Adalimumab,F
+18.0,,,,,3.0,3,3.0,Prednisone,Tofacitinib,F
+19.0,24.0,10.0,B,M,1.0,scarring changes,,,Vedolizumab,R
+19.0,,,,,2.0,scarring changes,1.0,,Adalimumab,R
+19.0,,,,,3.0,0-1,3.0,,Adalimumab,F
+19.0,,,,,4.0,0,1.0,,ustekinumab,R
+20.0,50.0,26.0,D,F,1.0,2024-02-03 00:00:00,,,Adalimumab,F
+20.0,,,,,2.0,0-1,3.0,"Mesalamine, hydrocortisone",Adalimumab,R
+20.0,,,,,3.0,0,2.0,,ustekinumab,R
+21.0,40.0,9.0,C,M,1.0,0,,,Vedolizumab,R
+21.0,,,,,2.0,2024-01-02 00:00:00,1.0,,Vedolizumab,F
+21.0,,,,,3.0,2,1.0,,Vedolizumab,F
+21.0,,,,,4.0,2024-02-03 00:00:00,2.0,,Tofacitinib,F

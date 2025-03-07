@@ -1,0 +1,4 @@
+Sample	Disease State	Time
+Pt15_F_1	Flare	1
+Pt15_F_2	Remission	2
+Pt15_R_3	Remission	3

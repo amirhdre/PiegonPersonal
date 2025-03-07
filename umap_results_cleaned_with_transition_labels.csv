@@ -1,0 +1,38 @@
+UMAP1,UMAP2,patient,file_t1,file_t2,transition_category,zscore_umap1,zscore_umap2
+4.076506,-5.0911922,Pt3,1_Pt3_F.txt,2_Pt3_F.txt,Stable (Flare→Flare or Remission→Remission),-0.34152943,-0.34937644
+5.1114206,-4.2865067,Pt4,1_Pt4_F.txt,2_Pt4_R.txt,State Change (Flare→Remission or Remission→Flare),0.77582335,0.64580035
+4.035623,-4.6680555,Pt12,1_Pt12_F.txt,2_Pt12_F.txt,Stable (Flare→Flare or Remission→Remission),-0.3856691,0.17392837
+4.1306424,-6.3320146,Pt15,1_Pt15_F.txt,2_Pt15_R.txt,State Change (Flare→Remission or Remission→Flare),-0.28308082,-1.8839355
+5.2890453,-5.5421915,Pt15,2_Pt15_R.txt,3_Pt15_R.txt,Stable (Flare→Flare or Remission→Remission),0.9675971,-0.9071396
+4.233499,-5.887799,Pt14,1_Pt14_F.txt,2_Pt14_F.txt,Stable (Flare→Flare or Remission→Remission),-0.17203091,-1.3345616
+4.9497557,-5.118754,Pt14,2_Pt14_F.txt,3_Pt14_R.txt,State Change (Flare→Remission or Remission→Flare),0.6012806,-0.3834627
+5.294263,-5.0415683,Pt13,1_Pt13_F.txt,2_Pt13_R.txt,State Change (Flare→Remission or Remission→Flare),0.9732303,-0.2880051
+3.442751,-5.2669806,Pt13,2_Pt13_R.txt,3_Pt13_F.txt,State Change (Flare→Remission or Remission→Flare),-1.0257677,-0.5667788
+3.0152724,-5.187282,Pt2,1_Pt2_F.txt,2_Pt2_R.txt,State Change (Flare→Remission or Remission→Flare),-1.487298,-0.46821338
+3.4661703,-4.467216,Pt18,1_Pt18_F.txt,2_Pt18_F.txt,Stable (Flare→Flare or Remission→Remission),-1.0004828,0.4223121
+4.179054,-4.1565123,Pt18,2_Pt18_F.txt,3_Pt18_F.txt,Stable (Flare→Flare or Remission→Remission),-0.23081313,0.80656797
+4.8791785,-3.9147604,Pt7,2_Pt7_R.txt,3_Pt7_R.txt,Stable (Flare→Flare or Remission→Remission),0.5250815,1.1055492
+3.6416595,-4.0314245,Pt20,1_Pt20_F.txt,2_Pt20_R.txt,State Change (Flare→Remission or Remission→Flare),-0.8110147,0.9612674
+4.456725,-4.944588,Pt20,2_Pt20_R.txt,3_Pt20_R.txt,Stable (Flare→Flare or Remission→Remission),0.0689767,-0.16806716
+4.5265555,-3.6961663,Pt9,1_Pt9_F.txt,2_Pt9_R.txt,State Change (Flare→Remission or Remission→Flare),0.1443696,1.3758905
+3.633554,-5.654071,Pt9,2_Pt9_R.txt,3_Pt9_F.txt,State Change (Flare→Remission or Remission→Flare),-0.81976587,-1.0455039
+5.78362,-5.4807053,Pt9,3_Pt9_F.txt,4_Pt9_R.txt,State Change (Flare→Remission or Remission→Flare),1.5015681,-0.8310979
+3.8626099,-5.489134,Pt16,1_Pt16_F.txt,2_Pt16_F.txt,Stable (Flare→Flare or Remission→Remission),-0.57246405,-0.84152174
+3.710406,-3.497933,Pt16,2_Pt16_F.txt,3_Pt16_R.txt,State Change (Flare→Remission or Remission→Flare),-0.73679197,1.6210512
+3.5494514,-6.1189604,Pt11,1_Pt11_F.txt,2_Pt11_R.txt,State Change (Flare→Remission or Remission→Flare),-0.9105679,-1.6204455
+5.5698447,-3.8032904,Pt11,2_Pt11_R.txt,3_Pt11_R.txt,Stable (Flare→Flare or Remission→Remission),1.2707642,1.2434072
+3.4218626,-4.9519205,Pt11,3_Pt11_R.txt,4_Pt11_F.txt,State Change (Flare→Remission or Remission→Flare),-1.0483199,-0.17713524
+5.606628,-4.4404087,Pt10,1_Pt10_F.txt,2_Pt10_R.txt,State Change (Flare→Remission or Remission→Flare),1.3104775,0.45546544
+4.3626857,-5.459455,Pt8,1_Pt8_F.txt,2_Pt8_R.txt,State Change (Flare→Remission or Remission→Flare),-0.032553654,-0.8048171
+4.767658,-5.9678817,Pt17,1_Pt17_F.txt,2_Pt17_F.txt,Stable (Flare→Flare or Remission→Remission),0.40467784,-1.4336023
+2.762627,-4.4856954,Pt1,1_Pt1_F.txt,2_Pt1_R.txt,State Change (Flare→Remission or Remission→Flare),-1.7600685,0.3994582
+5.0668273,-5.742878,Pt1,2_Pt1_R.txt,3_Pt1_F.txt,State Change (Flare→Remission or Remission→Flare),0.7276778,-1.155334
+3.8889499,-4.2967396,Pt1,3_Pt1_F.txt,4_Pt1_R.txt,State Change (Flare→Remission or Remission→Flare),-0.5440259,0.63314503
+4.8452835,-2.957878,Pt21,1_Pt21_R.txt,2_Pt21_F.txt,State Change (Flare→Remission or Remission→Flare),0.48848653,2.2889516
+4.6451645,-4.434079,Pt21,2_Pt21_F.txt,3_Pt21_F.txt,Stable (Flare→Flare or Remission→Remission),0.2724266,0.46329337
+6.1173916,-5.129556,Pt21,3_Pt21_F.txt,4_Pt21_F.txt,Stable (Flare→Flare or Remission→Remission),1.861927,-0.39682215
+3.1403909,-4.0253825,Pt19,1_Pt19_R.txt,2_Pt19_R.txt,Stable (Flare→Flare or Remission→Remission),-1.3522129,0.96873975
+6.239512,-4.5557795,Pt19,2_Pt19_R.txt,3_Pt19_F.txt,State Change (Flare→Remission or Remission→Flare),1.9937751,0.31278327
+5.199273,-3.6243103,Pt19,3_Pt19_F.txt,4_Pt19_R.txt,State Change (Flare→Remission or Remission→Flare),0.8706739,1.4647568
+2.6378183,-5.471054,Pt6,1_Pt6_F.txt,2_Pt6_R.txt,State Change (Flare→Remission or Remission→Flare),-1.8948189,-0.819162
+4.995302,-4.7014427,Pt6,2_Pt6_R.txt,3_Pt6_R.txt,Stable (Flare→Flare or Remission→Remission),0.65045524,0.13263752

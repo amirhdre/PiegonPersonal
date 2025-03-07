@@ -1,0 +1,3 @@
+Sample	Disease State	Time
+Pt7_R_2	Remission	2
+Pt7_R_3	Remission	3

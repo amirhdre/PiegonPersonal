@@ -1,0 +1,5 @@
+Sample	Disease State	Time
+Pt21_R_1	Remission	1
+Pt21_F_2	Flare	2
+Pt21_F_3	Flare	3
+Pt21_F_4	Flare	4
